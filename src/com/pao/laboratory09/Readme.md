@@ -1,4 +1,4 @@
-# Laboratory 09 — Serializare, I/O Binar și Fire de Executare
+S# Laboratory 09 — Serializare, I/O Binar și Fire de Executare
 
 > **Pachet:** `com.pao.laboratory09` · **Cursuri:** 08 + 09
 > **Data limită:** miercuri 14 mai 2026, ora 23:59
